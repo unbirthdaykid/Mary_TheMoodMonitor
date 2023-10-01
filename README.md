@@ -17,9 +17,12 @@ This application is challenging since psychology is a wide topic and there are t
 We are proudly to present an application that allows user to stay calm after an incident. We are proud to finish the application which is important for our user's safe space.
 
 ## What we learned
-We learn a lot about new Python Library. There are teammates who firstly knew how to use Tkinter, there are people who don't know anything about AI/ML models but still took times and learned about Naive Bayes algorithms, and Pandas. \n
+We learn a lot about new Python Library. There are teammates who firstly knew how to use Tkinter, there are people who don't know anything about AI/ML models but still took times and learned about Naive Bayes algorithms, and Pandas. 
 
 ## What's next for Mary - the Mood Monitor
 Mary - the Mood Monitor will be developed to generate better answers with higher accuracy and better user experience. 
 
 
+## Statistics of Mood Data from words
+https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction/data 
+We extracted data and numbers from this source. 
